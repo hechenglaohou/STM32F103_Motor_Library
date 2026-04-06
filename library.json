@@ -1,0 +1,21 @@
+{
+  "name": "STM32McpwmMotor",
+  "version": "1.0.0",
+  "description": "STM32 DC Motor Driver (PWM + Dual Direction Pin)",
+  "keywords": "motor, stm32, pwm, l298n, tb6612, encoder",
+  "authors": [
+    {
+      "name": "hechenglaohou",
+      "email": "zzhowdoyoudo@163.com",
+      "url": "https://github.com/hechenglaohou"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourname/STM32McpwmMotor.git"
+  },
+  "license": "MIT",
+  "frameworks": ["arduino"],
+  "platforms": ["ststm32"]
+}
+
